@@ -24,6 +24,9 @@ Feel free to PR.
 
 ## Educational
 
+- [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
+- [Sin7Y, Halo Principle Explained](https://sin7y.org/halo-principle-explained-fa5a2e2767cd)
+- [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856)
 - [Darkrenaissance's sage implementation](https://github.com/darkrenaissance/darkfi/blob/master/script/research/halo/halo2.sage)
 - [ZK Meetup Seoul, Deep dive on Halo2 2020](https://www.youtube.com/watch?v=YlTt12s7vGE)
 - [Zcash: Halo 2 and SNARKs without Trusted Setups 2021](https://www.youtube.com/watch?v=KdkVTEHUxgo)
