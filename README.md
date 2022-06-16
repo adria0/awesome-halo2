@@ -1,4 +1,5 @@
-# awesome-halo2
+# Awesome HALO2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A community-maintained list of halo2-related resources.
 Feel free to PR.
 
@@ -23,6 +24,7 @@ Feel free to PR.
 
 ## Educational
 
+- [Darkrenaissance's sage implementation](https://github.com/darkrenaissance/darkfi/blob/master/script/research/halo/halo2.sage)
 - [ZK Meetup Seoul, Deep dive on Halo2 2020](https://www.youtube.com/watch?v=YlTt12s7vGE)
 - [Zcash: Halo 2 and SNARKs without Trusted Setups 2021](https://www.youtube.com/watch?v=KdkVTEHUxgo)
 - [ZK7: Latest developments in Halo2 2022](https://www.youtube.com/watch?v=V1RgGn1GtqM)
@@ -34,3 +36,4 @@ Feel free to PR.
 - [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
 - [TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
+- [Sice HALO2 is PLONK-based see awesome-plonk](https://github.com/fluidex/awesome-plonk)
