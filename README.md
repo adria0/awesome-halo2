@@ -1,5 +1,6 @@
 # awesome-halo2
-A community-maintained list of halo2-related resources. Feel free to PR.
+A community-maintained list of halo2-related resources.
+Feel free to PR.
 
 ## Protocol
 
@@ -13,17 +14,23 @@ A community-maintained list of halo2-related resources. Feel free to PR.
 - [Ethereum foundation zkEVM](https://github.com/zcash/orchard)
 - [Darkrenaissance's Dark.fi](https://github.com/darkrenaissance/darkfi)
 
-## Gadgets
+## Gadgets 
 
-- [Halo2 gadgets](https://github.com/zcash/halo2/tree/main/halo2_gadgets) includes Sinsemilla, Similla ECC, SHA256, Posseidon
-- [halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
+- [ECC's Halo2 gadgets](https://github.com/zcash/halo2/tree/main/halo2_gadgets) includes Sinsemilla, Similla ECC, SHA256, Posseidon
+- [PSE's halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
+- [Scrolltech Halo2 aggregator](https://github.com/scroll-tech/halo2-snark-aggregator)
+- [Semaphore](https://github.com/akinovak/halo2-semaphore)
 
 ## Educational
 
+- [ZK Meetup Seoul, Deep dive on Halo2 2020](https://www.youtube.com/watch?v=YlTt12s7vGE)
 - [Zcash: Halo 2 and SNARKs without Trusted Setups 2021](https://www.youtube.com/watch?v=KdkVTEHUxgo)
-- [ZK Meetup Seoul, Deep dive on Halo2](https://www.youtube.com/watch?v=YlTt12s7vGE&t=3366s)
-- [ZK7: Latest developments in Halo2 by Ying Tong 2022](https://www.youtube.com/watch?v=V1RgGn1GtqM)
+- [ZK7: Latest developments in Halo2 2022](https://www.youtube.com/watch?v=V1RgGn1GtqM)
+- [Halo2 tutorial source](https://github.com/icemelon/halo2-tutorial/)
 
-## Toy & research projects
+## Others
 
-- [Vocdoni anonymous voting](https://github.com/vocdoni/halo2-franchise-proof)
+- [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
+- [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
+- [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
+- [TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
