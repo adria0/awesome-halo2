@@ -12,7 +12,7 @@ Feel free to PR.
 ## Projects
 
 - [Zcash Protocol NU5: Orchard](https://github.com/zcash/orchard)
-- [Ethereum foundation zkEVM](https://github.com/zcash/orchard)
+- [Ethereum foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)
 - [Darkrenaissance's Dark.fi](https://github.com/darkrenaissance/darkfi)
 
 ## Gadgets 
