@@ -35,6 +35,7 @@ Feel free to PR.
 
 ## Others
 
+- [Zordle is Wordle, but with zero-knowledge proofs, uses wasm](https://github.com/nalinbhardwaj/zordle)
 - [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
 - [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
