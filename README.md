@@ -41,3 +41,4 @@ Feel free to PR.
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
 - [TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 - [Sice HALO2 is PLONK-based see awesome-plonk](https://github.com/fluidex/awesome-plonk)
+- [Zkbitcoin halo2 test suite, uses wasm](https://zkbitcoin.com/zk)
