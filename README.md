@@ -35,6 +35,7 @@ Feel free to PR.
 
 ## Others
 
+- [Arithmetization of Functional Program Execution via Interaction Nets in Halo 2](https://eprint.iacr.org/2022/1211.pdf)
 - [Zordle is Wordle, but with zero-knowledge proofs, uses wasm](https://github.com/nalinbhardwaj/zordle)
 - [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
 - [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
