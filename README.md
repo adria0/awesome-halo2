@@ -13,7 +13,7 @@ Feel free to PR.
 
 - [Zcash Protocol NU5: Orchard](https://github.com/zcash/orchard)
 - [Ethereum foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)
-- [Darkrenaissance's Dark.fi](https://github.com/darkrenaissance/darkfi)
+- [DarkFi zk assembler and VM](https://github.com/darkrenaissance/darkfi/tree/master/src/zk)
 
 ## Gadgets 
 
@@ -21,6 +21,7 @@ Feel free to PR.
 - [PSE's halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
 - [Scrolltech Halo2 aggregator](https://github.com/scroll-tech/halo2-snark-aggregator)
 - [Semaphore](https://github.com/akinovak/halo2-semaphore)
+- [DarkFi Halo2 gadgets](https://github.com/darkrenaissance/darkfi/tree/master/src/zk/gadget) includes arithmetic, comparisons, and range checks
 
 ## Educational
 
