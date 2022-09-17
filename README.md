@@ -3,6 +3,8 @@
 A community-maintained list of halo2-related resources.
 Feel free to PR.
 
+Join the community Discord at: https://discord.gg/GEJX7SfEuh
+
 ## Protocol
 
 - [ZCash Rust implementation](https://github.com/zcash/halo2)
@@ -12,8 +14,10 @@ Feel free to PR.
 ## Projects
 
 - [Zcash Protocol NU5: Orchard](https://github.com/zcash/orchard)
-- [Ethereum foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)
+- [Ethereum Foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)
 - [Darkrenaissance's Dark.fi](https://github.com/darkrenaissance/darkfi)
+- [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
+- [Deep Learning in Halo 2](https://github.com/jasonmorton/halo2deeplearning/)
 
 ## Gadgets 
 
@@ -21,7 +25,9 @@ Feel free to PR.
 - [PSE's halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
 - [Scrolltech Halo2 aggregator](https://github.com/scroll-tech/halo2-snark-aggregator)
 - [Semaphore](https://github.com/akinovak/halo2-semaphore)
-
+- [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
+- [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
+- 
 ## Educational
 
 - [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
@@ -36,10 +42,8 @@ Feel free to PR.
 ## Others
 
 - [Arithmetization of Functional Program Execution via Interaction Nets in Halo 2](https://eprint.iacr.org/2022/1211.pdf)
+- [Arithmetization of ∑¹₁ Relations in Halo 2](https://eprint.iacr.org/2022/777.pdf)
 - [Zordle is Wordle, but with zero-knowledge proofs, uses wasm](https://github.com/nalinbhardwaj/zordle)
 - [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
-- [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
-- [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
-- [TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 - [Sice HALO2 is PLONK-based see awesome-plonk](https://github.com/fluidex/awesome-plonk)
 - [Zkbitcoin halo2 test suite, uses wasm](https://zkbitcoin.com/zk)
