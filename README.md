@@ -18,6 +18,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [Darkrenaissance's Dark.fi](https://github.com/darkrenaissance/darkfi)
 - [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 - [Deep Learning in Halo 2](https://github.com/jasonmorton/halo2deeplearning/)
+- [DarkFi zk assembler and VM](https://github.com/darkrenaissance/darkfi/tree/master/src/zk)
 
 ## Gadgets 
 
@@ -25,9 +26,10 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [PSE's halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
 - [Scrolltech Halo2 aggregator](https://github.com/scroll-tech/halo2-snark-aggregator)
 - [Semaphore](https://github.com/akinovak/halo2-semaphore)
+- [DarkFi Halo2 gadgets](https://github.com/darkrenaissance/darkfi/tree/master/src/zk/gadget) includes arithmetic, comparisons, and range checks
 - [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
-- 
+
 ## Educational
 
 - [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
