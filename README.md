@@ -31,6 +31,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [DarkFi Halo2 gadgets](https://github.com/darkrenaissance/darkfi/tree/master/src/zk/gadget) includes arithmetic, comparisons, and range checks
 - [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
+- [RSA verification circuit](https://github.com/SoraSuegami/halo2_rsa)
 
 ## Educational
 
