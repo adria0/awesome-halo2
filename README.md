@@ -19,6 +19,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 - [Deep Learning in Halo 2](https://github.com/jasonmorton/halo2deeplearning/)
 - [DarkFi zk assembler and VM](https://github.com/darkrenaissance/darkfi/tree/master/src/zk)
+- [Eigen Trust - A distributed reputation system](https://github.com/eigen-trust/eigen-trust)
 
 ## Gadgets 
 
