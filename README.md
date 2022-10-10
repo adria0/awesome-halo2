@@ -52,3 +52,4 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
 - [Sice HALO2 is PLONK-based see awesome-plonk](https://github.com/fluidex/awesome-plonk)
 - [Zkbitcoin halo2 test suite, uses wasm](https://zkbitcoin.com/zk)
+- [Rate limit nullifier](https://github.com/akinovak/halo2-rln)
