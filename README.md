@@ -32,6 +32,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [nikkolasg's Verkle tree](https://github.com/nikkolasg/halo2-circuits)
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
 - [RSA verification circuit](https://github.com/SoraSuegami/halo2_rsa)
+- [halo2-lib, a library of basic gadgets for halo2 development](https://github.com/axiom-crypto/halo2-lib)
 
 ## Educational
 
