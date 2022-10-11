@@ -33,6 +33,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [DrPeterVanNostrand's Merkle tree](https://github.com/DrPeterVanNostrand/halo2-merkle)
 - [RSA verification circuit](https://github.com/SoraSuegami/halo2_rsa)
 - [halo2-lib, a library of basic gadgets for halo2 development](https://github.com/axiom-crypto/halo2-lib)
+- [verifiable encryption based of the hashed ElGamal scheme](https://github.com/timoth-y/halo2-encryption)
 
 ## Educational
 
