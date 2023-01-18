@@ -35,6 +35,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [halo2-lib, a library of basic gadgets for halo2 development](https://github.com/axiom-crypto/halo2-lib)
 - [verifiable encryption based of the hashed ElGamal scheme](https://github.com/timoth-y/halo2-encryption)
 - [RSA](https://github.com/SoraSuegami/halo2_rsa)
+- [DelphinusLab's BN256 and BLS12-381 pairings](https://github.com/DelphinusLab/halo2ecc-s)
 
 ## Educational
 
