@@ -36,6 +36,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [verifiable encryption based of the hashed ElGamal scheme](https://github.com/timoth-y/halo2-encryption)
 - [RSA](https://github.com/SoraSuegami/halo2_rsa)
 - [DelphinusLab's BN256 and BLS12-381 pairings](https://github.com/DelphinusLab/halo2ecc-s)
+- [FRI](https://github.com/maxgillett/halo2-fri-gadget)
 
 ## Educational
 
