@@ -14,12 +14,13 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 ## Projects
 
 - [Zcash Protocol NU5: Orchard](https://github.com/zcash/orchard)
-- [Ethereum Foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)
-- [Darkrenaissance's Dark.fi](https://github.com/darkrenaissance/darkfi)
-- [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
+- [Ethereum Foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)A
+- [Scroll zkEVM](https://github.com/scroll-tech)
+- [Taiko zkEVM](https://github.com/taikoxyz)
 - [Deep Learning in Halo 2](https://github.com/jasonmorton/halo2deeplearning/)
 - [DarkFi zk assembler and VM](https://github.com/darkrenaissance/darkfi/tree/master/src/zk)
 - [Eigen Trust - A distributed reputation system](https://github.com/eigen-trust/eigen-trust)
+- [Axiom Zk processor - provides smart contracts trustless access to historic on-chain data and arbitrary expressive compute](https://github.com/axiom-crypto/)
 
 ## Gadgets 
 
@@ -36,9 +37,10 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [verifiable encryption based of the hashed ElGamal scheme](https://github.com/timoth-y/halo2-encryption)
 - [DelphinusLab's BN256 and BLS12-381 pairings](https://github.com/DelphinusLab/halo2ecc-s)
 - [FRI](https://github.com/maxgillett/halo2-fri-gadget)
+- [Rate limit nullifier](https://github.com/akinovak/halo2-rln)
 
 ## Educational
-
+- [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 - [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
 - [Sin7Y, Halo Principle Explained](https://sin7y.org/halo-principle-explained-fa5a2e2767cd)
 - [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856)
@@ -56,4 +58,3 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
 - [Sice HALO2 is PLONK-based see awesome-plonk](https://github.com/fluidex/awesome-plonk)
 - [Zkbitcoin halo2 test suite, uses wasm](https://zkbitcoin.com/zk)
-- [Rate limit nullifier](https://github.com/akinovak/halo2-rln)
