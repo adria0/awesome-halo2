@@ -24,7 +24,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 
 ## Gadgets 
 
-- [ECC's Halo2 gadgets](https://github.com/zcash/halo2/tree/main/halo2_gadgets) includes Sinsemilla, Similla ECC, SHA256, Posseidon
+- [ECC's Halo2 gadgets](https://github.com/zcash/halo2/tree/main/halo2_gadgets) includes Sinsemilla, Similla ECC, SHA256, Poseidon
 - [PSE's halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
 - [PSE's pairings](https://github.com/privacy-scaling-explorations/pairing)
 - [Scrolltech Halo2 aggregator](https://github.com/scroll-tech/halo2-snark-aggregator)
