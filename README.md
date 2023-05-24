@@ -49,6 +49,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [Zcash: Halo 2 and SNARKs without Trusted Setups 2021](https://www.youtube.com/watch?v=KdkVTEHUxgo)
 - [ZK7: Latest developments in Halo2 2022](https://www.youtube.com/watch?v=V1RgGn1GtqM)
 - [Halo2 tutorial source](https://github.com/icemelon/halo2-tutorial/)
+- [Building a Zero Knowledge web app with Halo 2 and Wasm](https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-1-80858c8d16ee)
 
 ## Others
 
