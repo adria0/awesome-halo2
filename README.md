@@ -21,6 +21,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [DarkFi zk assembler and VM](https://github.com/darkrenaissance/darkfi/tree/master/src/zk)
 - [Eigen Trust - A distributed reputation system](https://github.com/eigen-trust/eigen-trust)
 - [Axiom Zk processor - provides smart contracts trustless access to historic on-chain data and arbitrary expressive compute](https://github.com/axiom-crypto/)
+- [Proof of solvency](https://github.com/summa-dev/summa-solvency)
 
 ## Gadgets 
 
