@@ -56,6 +56,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [Arithmetization of Functional Program Execution via Interaction Nets in Halo 2](https://eprint.iacr.org/2022/1211.pdf)
 - [Arithmetization of ∑¹₁ Relations in Halo 2](https://eprint.iacr.org/2022/777.pdf)
 - [Zordle is Wordle, but with zero-knowledge proofs, uses wasm](https://github.com/nalinbhardwaj/zordle)
+- [Hammster proves Hamming distance in zk, also uses wasm](https://github.com/ytham/hammster/tree/main)
 - [Vocdoni anonymous voting (wasm)](https://github.com/vocdoni/halo2-francise-proof-wasm)
 - [Sice HALO2 is PLONK-based see awesome-plonk](https://github.com/fluidex/awesome-plonk)
 - [Zkbitcoin halo2 test suite, uses wasm](https://zkbitcoin.com/zk)
