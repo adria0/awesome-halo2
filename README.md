@@ -9,6 +9,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 
 - [ZCash Rust implementation](https://github.com/zcash/halo2)
 - [PSE's halo2 version with KZG instead IPA](https://github.com/privacy-scaling-explorations/halo2)
+- [halo2-ce](https://github.com/halo2-ce/halo2/)
 - [The halo2 book](https://zcash.github.io/halo2/)
 
 ## Projects
@@ -21,6 +22,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [DarkFi zk assembler and VM](https://github.com/darkrenaissance/darkfi/tree/master/src/zk)
 - [Eigen Trust - A distributed reputation system](https://github.com/eigen-trust/eigen-trust)
 - [Axiom Zk processor - provides smart contracts trustless access to historic on-chain data and arbitrary expressive compute](https://github.com/axiom-crypto/)
+- [DelphinusLab's zkWASM](https://github.com/DelphinusLab/zkWasm)
 - [Proof of solvency](https://github.com/summa-dev/summa-solvency)
 
 ## Gadgets 
@@ -37,7 +39,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 - [halo2-lib, a library of basic gadgets for halo2 development](https://github.com/axiom-crypto/halo2-lib)
 - [verifiable encryption based of the hashed ElGamal scheme](https://github.com/timoth-y/halo2-encryption)
 - [DelphinusLab's BN256 and BLS12-381 pairings](https://github.com/DelphinusLab/halo2ecc-s)
-- [FRI](https://github.com/maxgillett/halo2-fri-gadget)
+- [FRI verifier](https://github.com/maxgillett/halo2-fri-gadget)
 - [Rate limit nullifier](https://github.com/akinovak/halo2-rln)
 
 ## Educational
