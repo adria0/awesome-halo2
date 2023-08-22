@@ -14,7 +14,7 @@ Join the community Discord at: https://discord.gg/GEJX7SfEuh
 ## Projects
 
 - [Zcash Protocol NU5: Orchard](https://github.com/zcash/orchard)
-- [Ethereum Foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)A
+- [Ethereum Foundation zkEVM](https://github.com/privacy-scaling-explorations/zkevm-specs)
 - [Scroll zkEVM](https://github.com/scroll-tech)
 - [Taiko zkEVM](https://github.com/taikoxyz)
 - [Deep Learning in Halo 2](https://github.com/jasonmorton/halo2deeplearning/)
