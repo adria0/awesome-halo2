@@ -5,6 +5,8 @@ Feel free to PR.
 
 Join the community Discord at: https://discord.gg/GEJX7SfEuh
 
+Also check the fantastic https://halo2.club coordinated by @therealyingtong
+
 ## Protocol
 
 - [ZCash Rust implementation](https://github.com/zcash/halo2)
