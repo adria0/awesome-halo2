@@ -43,6 +43,7 @@ Also check the fantastic https://halo2.club coordinated by @therealyingtong
 - [DelphinusLab's BN256 and BLS12-381 pairings](https://github.com/DelphinusLab/halo2ecc-s)
 - [FRI verifier](https://github.com/maxgillett/halo2-fri-gadget)
 - [Rate limit nullifier](https://github.com/akinovak/halo2-rln)
+- [halo2-utils](https://github.com/zemse/halo2-utils)
 
 ## Educational
 - [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
