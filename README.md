@@ -27,7 +27,7 @@ Also check the fantastic https://halo2.club coordinated by @therealyingtong
 - [DelphinusLab's zkWASM](https://github.com/DelphinusLab/zkWasm)
 - [Proof of solvency](https://github.com/summa-dev/summa-solvency)
 
-## Gadgets 
+## Gadgets
 
 - [ECC's Halo2 gadgets](https://github.com/zcash/halo2/tree/main/halo2_gadgets) includes Sinsemilla, Similla ECC, SHA256, Poseidon
 - [PSE's halo2wrong](https://github.com/privacy-scaling-explorations/halo2wrong) includes field emulation, generic ECC & ECDSA
@@ -46,6 +46,8 @@ Also check the fantastic https://halo2.club coordinated by @therealyingtong
 - [halo2-utils](https://github.com/zemse/halo2-utils)
 
 ## Educational
+
+- [Halo Hero](https://halo2.zksecurity.xyz/) a comprehensive course on Halo2 circuit development.
 - [Orbis Labs' TinyRAM implementation](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 - [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
 - [Sin7Y, Halo Principle Explained](https://medium.com/@sin7y/halo-principle-explained-fa5a2e2767cd)
